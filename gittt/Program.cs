@@ -9,8 +9,8 @@ namespace gittt
 {
     internal class Program
     {
-        int a = 1;
-        int b = 2;
-        int c = 3;
+        int a = 10000;
+        int b = 20000;
+        int c = 30000;
     }
 }
